@@ -1,0 +1,1 @@
+my(N=30, x='x+O('x^N)); Vec(serlaplace( serreverse( x*(1 - x^2*(exp(x) - 1))^3 )/x ))

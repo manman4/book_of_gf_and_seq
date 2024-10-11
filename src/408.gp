@@ -1,0 +1,1 @@
+my(N=30, x='x+O('x^N)); Vec(serlaplace( serreverse( x*(1 + log(1-x))^3 )/x ))
